@@ -2,6 +2,10 @@
 This is study repoistory for sunghwan
 
 
+
+![Sunghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunghwanism&show_icons=true&theme=radical)
+
+
 ---
 ## Coding Study
 
