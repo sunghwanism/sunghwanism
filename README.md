@@ -84,40 +84,56 @@ Bridging basic research and clinical application using generative models and rel
   **“AnatDiff: Anatomically informed diffusion models for morphologically preserving brain MRI generation”**  
   *MICCAI 2025* (under review)  
 
-
+## 🛠 Technical Skills
 ## 🛠 Technical Skills
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Languages</strong><br/>
+<table align="center">
+  <tr align="center">
+    <td>
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="60"/>
-      </a>
-      <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="60"/><br/>
+        <sub><b>Python</b></sub>
       </a>
     </td>
-    <td align="center" width="50%">
-      <strong>Frameworks & Tools</strong><br/>
+    <td>
+      <a href="https://www.r-project.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/><br/>
+        <sub><b>R</b></sub>
+      </a>
+    </td>
+    <td>
       <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60"/><br/>
+        <sub><b>PyTorch</b></sub>
       </a>
+    </td>
+    <td>
       <a href="https://github.com/Project-MONAI/MONAI" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/56449156?s=48&v=4" alt="MONAI" width="60" height="60"/>
+        <img src="https://avatars.githubusercontent.com/u/56449156?s=48&v=4" alt="MONAI" width="60" height="60"/><br/>
+        <sub><b>MONAI</b></sub>
       </a>
+    </td>
+    <td>
       <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/><br/>
+        <sub><b>Git</b></sub>
       </a>
+    </td>
+    <td>
       <a href="https://www.langchain.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangChain" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangChain" width="60" height="60"/><br/>
+        <sub><b>LangChain</b></sub>
       </a>
+    </td>
+    <td>
       <a href="https://wandb.ai/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-icon.svg" alt="Weights & Biases" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-icon.svg" alt="Weights & Biases" width="60" height="60"/><br/>
+        <sub><b>W&B</b></sub>
       </a>
     </td>
   </tr>
-</table>
+</table>    
+
 
 ---
 ## GitHub Status
