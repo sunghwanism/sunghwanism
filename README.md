@@ -1,3 +1,4 @@
+
 # 🧠 Sunghwan Moon
 
 **M.S. in Software Convergence in Kyung Hee University, South Korea**  
@@ -5,6 +6,12 @@
 🎓 **Ph.D. Applicant for Fall 2026**    
 📧 sunghwan.moon.ai@gmail.com (personal)   
 📧 sunghwan.moon@khu.ac.kr or sunghwan.moon@mail.utoronto.ca (Academic)   
+
+<h3 align="left">📊 GitHub Contribution Chart</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/sunghwanism" alt="sunghwanism's GitHub chart" width="800"/>
+</p>
 
 
 ## 🎓 Education
