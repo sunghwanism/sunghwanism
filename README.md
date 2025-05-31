@@ -1,22 +1,26 @@
-# 🧠 Sunghwan Moon - Dalssung
+# 🧠 Sunghwan Moon
 
 **M.S. in Software Convergence in Kyung Hee University, South Korea**  
 📍 Seoul, South Korea (Plan to move Canada 🇨🇦)  
-📧 sunghwan.moon.ai@gmail.com   
+🎓 **Ph.D. Applicant for Fall 2026**    
+📧 sunghwan.moon.ai@gmail.com (personal)   
+📧 sunghwan.moon@khu.ac.kr or sunghwan.moon@mail.utoronto.ca (Academic)   
+
 
 ## 🎓 Education
 
-- **Kyung Hee University**, Seoul, South Korea  
+**Kyung Hee University**, Seoul, South Korea  
   M.S. in Software Convergence (GPA: 3.95 / 4.0)  
   *Mar. 2022 – Feb. 2025*
 
-- **Kyung Hee University**, Seoul, South Korea  
-  B.S. in Software Convergence (GPA: 3.65 / 4.0)  
-  *Mar. 2015 – Feb. 2022*
-
-- **University of Toronto**, Ontario, Canada  
+**University of Toronto**, Ontario, Canada  
   Visiting Graduate Student, Dept. of Mechanical and Industrial Engineering  
   *Jan. 2024 – Jun. 2024*
+
+
+**Kyung Hee University**, Seoul, South Korea  
+  B.S. in Software Convergence (GPA: 3.65 / 4.0)  
+  *Mar. 2015 – Feb. 2022*
 
 
 ## 🔍 Research Interests
@@ -61,22 +65,17 @@ Bridging basic research and clinical application using generative models and rel
 ### ✅ Published
 
 - **Sunghwan Moon**, Junhyuk Lee, Won Hee Lee.  
-  [**“Predicting brain age with global-local attention network from multimodal neuroimaging data: accuracy, generalizability, and behavioral associations”**](https://www.sciencedirect.com/science/article/abs/pii/S0010482524014963)  
-  *Computers in Biology and Medicine*, 2025.  
-*(IF: 7.0, Top 2.3% in Mathematical & Computational Biology)*  
-  [`Multimodal · Brain Age · Biomarker`]
+  [**“Predicting brain age with global-local attention network from multimodal neuroimaging data: accuracy, generalizability, and behavioral associations”**](https://www.sciencedirect.com/science/article/abs/pii/S0010482524014963), *Computers in Biology and Medicine*, 2025.  
+  (IF: 7.0, Top 2.3% in Mathematical & Computational Biology)    
 
 - **Sunghwan Moon**, Tae Seong Kim, Jihye Ryu, Won Hee Lee.  
-  [**“Federated Learning for Sleep Stage Classification on Edge Devices via a Model-Agnostic Meta-Learning-Based Pre-Trained Model”**](https://ieeexplore.ieee.org/abstract/document/10375664)  
-  *IEEE ICCE-Berlin*, 2023. *(Oral Presentation)*  
-  [`Federated Learning · Edge Device · Wearable Sensor`]
+  [**“Federated Learning for Sleep Stage Classification on Edge Devices via a Model-Agnostic Meta-Learning-Based Pre-Trained Model”**](https://ieeexplore.ieee.org/abstract/document/10375664), *IEEE ICCE-Berlin*, 2023. *(Oral Presentation)*  
 
 ### 📝 Under Review
 
-- **Howook Lee**, **Sunghwan Moon**, Won Hee Lee.  
+- Howook Lee, **Sunghwan Moon**, Won Hee Lee.  
   **“AnatDiff: Anatomically informed diffusion models for morphologically preserving brain MRI generation”**  
   *MICCAI 2025* (under review)  
-  [`Diffusion Model · Brain MRI · Morphological Preservation`]
 
 
 ## 🛠 Technical Skills
