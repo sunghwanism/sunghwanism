@@ -85,7 +85,6 @@ Bridging basic research and clinical application using generative models and rel
   *MICCAI 2025* (under review)  
 
 ## 🛠 Technical Skills
-## 🛠 Technical Skills
 
 <table align="center">
   <tr align="center">
