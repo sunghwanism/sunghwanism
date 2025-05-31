@@ -113,7 +113,7 @@ Bridging basic research and clinical application using generative models and rel
 </table>
 
 ---
-## 🛠 Technical Skills
+## GitHub Status
 
 <table>
   <tr>
