@@ -1,10 +1,10 @@
 
 # 🧠 Sunghwan Moon
-
 **M.S. in Software Convergence in Kyung Hee University, South Korea**  
-📍 Seoul, South Korea (Plan to move Canada 🇨🇦)  
+**(Current)Research Intern in Panchenko Lab at Queen's University (affiliated Vector Institute)**
+📍 Kingston, Canada 🇨🇦
 🎓 **Ph.D. Applicant for Fall 2026**    
-📧 sunghwan.moon.ai@gmail.com (personal)   
+📧 sunghwan.moon.ai@gmail.com (personal)
 📧 sunghwan.moon@khu.ac.kr or sunghwan.moon@mail.utoronto.ca (Academic)   
 
 <h3 align="left">📊 GitHub Contribution Chart</h3>
