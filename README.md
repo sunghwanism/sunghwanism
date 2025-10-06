@@ -1,12 +1,12 @@
 
 # 🧠 Sunghwan Moon
-**Research Intern in Panchenko Lab at Queen's University (affiliated Vector Institute)**</br>
+**Research Intern in Vector Institute** (advisor: Anna Panchenko)</br>
 M.S. in Software Convergence in Kyung Hee University, South Korea
 
 📍 Kingston, Canada 🇨🇦</br>
 🎓 Ph.D. Applicant for Fall 2026</br>
 📧 sunghwan.moon.ai@gmail.com (personal)</br>
-📧 sunghwan.moon@khu.ac.kr or sunghwan.moon@mail.utoronto.ca (Academic)   
+📧 sunghwan.moon.ai@queensu.ca (Academic)</br>
 
 <h3 align="left">📊 GitHub Contribution Chart</h3>
 
@@ -83,7 +83,7 @@ Bridging basic research and clinical application using generative models and rel
 
 - Howook Lee, **Sunghwan Moon**, Won Hee Lee.  
   **“AnatDiff: Anatomically informed diffusion models for morphologically preserving brain MRI generation”**  
-  *MICCAI 2025* (under review)  
+  (Under review)  
 
 ## 🛠 Technical Skills
 
