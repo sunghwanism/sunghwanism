@@ -137,10 +137,9 @@ Bridging basic research and clinical application using generative models and rel
   </tr>
 </table>    
 
-
+<!-- 
 ---
 ## GitHub Status
-
 <table>
   <tr>
     <td>
@@ -150,4 +149,4 @@ Bridging basic research and clinical application using generative models and rel
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghwanism&layout=compact&theme=dark" width="300"/>
     </td>
   </tr>
-</table>  
+</table>   -->
