@@ -28,8 +28,8 @@ M.S. in Software Convergence, Kyung Hee University, South Korea
   *Jan. 2024 – Jun. 2024*
 
 
-**Kyung Hee University**, Seoul, South Korea  
-  B.S. in Software Convergence (GPA: 3.65 / 4.0)  
+**Kyung Hee University**, Seoul, South Korea (GPA: 3.65 / 4.0)  
+  B.S. in Software Convergence
   *Mar. 2015 – Feb. 2022*
 
 
