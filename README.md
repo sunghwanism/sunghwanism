@@ -53,7 +53,7 @@ Bridging basic research and clinical application using generative models and rel
 
 ## 🧪 Selected Projects
 
-### 🧬 Impact of Cancer Mutations on Chromatin Interactions via Histones
+### 🧬 Impact of Cancer Mutations on Chromatin Interactions via Histones (Present)
 - Exploring Oncogenic Mechanisms through Integrated Computational Analysis in residue-level
 - Network Analysis for identifying important node and important mutation path
 
