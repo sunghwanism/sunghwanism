@@ -1,12 +1,12 @@
 
 # 🧠 Sunghwan Moon
-**Research Intern in Vector Institute** (advisor: Anna Panchenko)</br>
-M.S. in Software Convergence in Kyung Hee University, South Korea
+**Research Intern in Queen's University - Vector institute affiliated Lab** (advisor: Anna Panchenko)</br>
+M.S. in Software Convergence, Kyung Hee University, South Korea
 
-📍 Kingston, Canada 🇨🇦</br>
-🎓 Ph.D. Applicant for Fall 2026</br>
-📧 sunghwan.moon.ai@gmail.com (personal)</br>
-📧 sunghwan.moon.ai@queensu.ca (Academic)</br>
+📍 Kingston, Canada </br>
+🎓 Ph.D. Applicant for Fall 2027</br>
+📧 sunghwan.moon.ai@gmail.com</br>
+<!-- 📧 sunghwan.moon.ai@queensu.ca (Academic)</br> -->
 
 <h3 align="left">📊 GitHub Contribution Chart</h3>
 
@@ -17,12 +17,14 @@ M.S. in Software Convergence in Kyung Hee University, South Korea
 
 ## 🎓 Education
 
-**Kyung Hee University**, Seoul, South Korea  
-  M.S. in Software Convergence (GPA: 3.95 / 4.0)  
+**Kyung Hee University**, Seoul, South Korea  (GPA: 3.95 / 4.0)  
+  M.S. in Software Convergence</br>
+  Advisor: Prof. Won Hee Lee </br>
   *Mar. 2022 – Feb. 2025*
 
 **University of Toronto**, Ontario, Canada  
   Visiting Graduate Student, Dept. of Mechanical and Industrial Engineering  
+  Industry-academia joint project with LGE Toronto AI Lab (Adviosr: Dr. Thi Ha Kyaw)</br>
   *Jan. 2024 – Jun. 2024*
 
 
@@ -37,35 +39,40 @@ M.S. in Software Convergence in Kyung Hee University, South Korea
 Building AI systems for early diagnosis and personalized treatment.  
 Bridging basic research and clinical application using generative models and reliability metrics.
 
-- 📄 **Generative Models for Healthcare**
-  - Medical report generation for disease progression and personalized treatment
-  - Leveraging longitudinal imaging and other modality (e.g., EHR)
+  - 🧠 **Generative Models for Healthcare**
+    - Medical report generation for disease progression and personalized treatment
+    - Leveraging longitudinal imaging and other modality (e.g., EHR)
 
 - 🏥 **Model Reliability for Clinical Application**
-  - Developing evaluation metrics for clinical fidelity
-  - Ensuring trustworthiness and interpretability in real-world settings
+    - Developing evaluation metrics for clinical fidelity
+    - Ensuring trustworthiness and interpretability in real-world settings
 
-- 🔐 **Federated Learning for Privacy-Preserving AI**
+<!-- - 🔐 **Federated Learning for Privacy-Preserving AI**
   - Enabling decentralized training across clinical institutions for preserving patient privacy
-  - Applying domain adaptation to handle non-iid data and improve model robustness
+  - Applying domain adaptation to handle non-iid data and improve model robustness -->
 
 ## 🧪 Selected Projects
+
+### 🧬 Impact of Cancer Mutations on Chromatin Interactions via Histones
+- Exploring Oncogenic Mechanisms through Integrated Computational Analysis in residue-level
+- Network Analysis for identifying important node and important mutation path
 
 ### 🧠 *Future Brain MRI Generation* (Present)  
 - Developed a diffusion-based generative model to simulate future brain MRIs  
 - Investigating potential for early Alzheimer’s diagnosis
-
+<!-- 
 ### 🔐 *Federated Learning for Healthcare* (Present)
 - Built a domain-adaptive FL framework for clinical data environments
-- Validated the feasibility of federated learning in healthcare use cases
+- Validated the feasibility of federated learning in healthcare use cases -->
+
+### 🩺 Brain Age for Discovering BioMarker (2024)
+- Proposed the multi-modal based brain age prediction model using structural MRI and diffusion MRI
+- Demonstrated the multi-modal model outperformed single-modality model in terms of accuracy, generalizability, reproducibility, and consistency
+- Identified the key associations between BrainPAD and clinical assessment score
 
 ### 🧊 *Morphological Preserving Brain Generation* (2024) 
 - Proposed an anatomically informed 3D diffusion model for brain MRI  
 - Designed a framework for evaluating morphological preservation in synthetic images 
-
-### 🧪 *Drug-like Molecule Generation* — LG Electronics Toronto AI Lab (2024)  
-- Built generative model using VAE and Bayesian optimization  
-- Generated molecules with targeted chemical properties
 
 
 ## 📚 Selected Publications
@@ -79,11 +86,7 @@ Bridging basic research and clinical application using generative models and rel
 - **Sunghwan Moon**, Tae Seong Kim, Jihye Ryu, Won Hee Lee.  
   [**“Federated Learning for Sleep Stage Classification on Edge Devices via a Model-Agnostic Meta-Learning-Based Pre-Trained Model”**](https://ieeexplore.ieee.org/abstract/document/10375664), *IEEE ICCE-Berlin*, 2023. *(Oral Presentation)*  
 
-### 📝 Under Review
-
-- Howook Lee, **Sunghwan Moon**, Won Hee Lee.  
-  **“AnatDiff: Anatomically informed diffusion models for morphologically preserving brain MRI generation”**  
-  (Under review)  
+<!-- ### 📝 Under Review -->
 
 ## 🛠 Technical Skills
 
@@ -95,12 +98,12 @@ Bridging basic research and clinical application using generative models and rel
         <sub><b>Python</b></sub>
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://www.r-project.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/><br/>
         <sub><b>R</b></sub>
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://pytorch.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60"/><br/>
