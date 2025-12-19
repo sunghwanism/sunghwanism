@@ -1,7 +1,7 @@
 
 # 🧠 Sunghwan Moon
 **Research Intern in Queen's University - Vector institute affiliated Lab** (Advisor: Prof. Anna Panchenko)</br>
-M.Eng. in Software Convergence, Kyung Hee University, South Korea
+M.S. in Software Convergence, Kyung Hee University, South Korea
 
 📍 Kingston, Canada </br>
 📧 sunghwan.moon.ai@gmail.com</br>
