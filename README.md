@@ -4,8 +4,9 @@
 M.Eng. in Software Convergence, Kyung Hee University, South Korea
 
 📍 Kingston, Canada </br>
-🎓 Ph.D. Applicant for Fall 2027</br>
 📧 sunghwan.moon.ai@gmail.com</br>
+🛄 [www.linkedin.com/in/sunghwanmoon](www.linkedin.com/in/sunghwanmoon)
+<!-- 🎓 Ph.D. Applicant for Fall 2027</br> -->
 <!-- 📧 sunghwan.moon.ai@queensu.ca (Academic)</br> -->
 
 <h3 align="left">📊 GitHub Contribution Chart</h3>
